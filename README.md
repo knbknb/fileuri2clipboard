@@ -1,2 +1,9 @@
 # fileuri2clipboard
-extension for Gnome3 Nautilus: Contextmenuf
+Python Extension for Gnome3-Nautilus' Contextmenu
+
+Store this in 
+
+    ~/.local/share/nautilus-python/extensions
+    
+    
+  
