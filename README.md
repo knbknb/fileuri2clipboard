@@ -1,4 +1,7 @@
 # fileuri2clipboard
+
+*My first attempt at python hacking for the Gnome desktop.*
+
 Python Extension for Gnome3-Nautilus' Contextmenu
 
 Store file `Copy2Clipboard.py` in 
